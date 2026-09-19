@@ -9,4 +9,4 @@ https://www.nexusmods.com/trailsintheskysecondchapter/mods/16
 Prepared: 2026-09-18
 
 Download URL used throughout repository:
-https://flyn.co/27RbR_
+https://trainedhierar.github.io/

